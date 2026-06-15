@@ -39,3 +39,16 @@ Selected experts should have public, relevant, and verifiable experience in SEO,
 * Collection method: Supadata Python SDK using the native YouTube transcript
 * Selection rationale: Ryan Law leads content at Ahrefs and presents a concrete, production-level workflow for automating SEO content research, outlining, drafting, internal linking, product integration, fact verification, and content updates with Claude Code.
 * Relevance notes: The source directly addresses scalable AI-assisted content production, human review, reusable skills, quality controls, and B2B SaaS product-led SEO.
+
+### 2. Kevin Indig
+
+* Expert: Kevin Indig
+* Organization: Growth Memo / independent SEO advisor
+* Content type: YouTube interview/transcript
+* Title: The key to success in SEO for 2025 is automation - with Kevin Indig
+* Publication date: 2025-04-08
+* Source URL: [https://www.youtube.com/watch?v=9Wdp_mhGgRQ](https://www.youtube.com/watch?v=9Wdp_mhGgRQ)
+* Local research file: research/youtube-transcripts/kevin-indig_seo-automation-for-2025_2025-04-08.md
+* Collection method: Supadata Python SDK using the native YouTube transcript
+* Selection rationale: Kevin Indig is a prominent technical and growth SEO practitioner who explains how automation can support scalable research, insight extraction, content ideation, draft generation, and programmatic SEO workflows.
+* Relevance notes: The source is directly relevant to AI-powered SEO content production because it focuses on automation systems, scalable content operations, human oversight, and the use of AI to accelerate B2B SaaS SEO work.
