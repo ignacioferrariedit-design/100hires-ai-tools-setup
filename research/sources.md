@@ -65,3 +65,16 @@ Selected experts should have public, relevant, and verifiable experience in SEO,
 * Collection method: Manual review and original summary of the public Clearscope article
 * Selection rationale: Bernard Huang is the founder of Clearscope and works directly on SEO content optimization and visibility across traditional and AI-driven search. His article explains why AI should improve research, semantic coverage, knowledge structure, and originality rather than simply automate content volume.
 * Relevance notes: This source adds a strategic quality-control perspective to the operational workflows described by Ryan Law and Kevin Indig. It is particularly relevant to B2B SaaS because it connects scalable AI-assisted production with product expertise, topical authority, human review, and visibility in AI-generated answers.
+
+### 4. Aleyda Solís
+
+* Expert: Aleyda Solís
+* Organization: Orainti
+* Content type: Public LinkedIn post / research notes
+* Title: Optimizing for Traditional vs. AI Search
+* Publication date: 2025-04-04
+* Source URL: [https://www.linkedin.com/posts/aleyda_optimizing-for-traditional-vs-ai-search-activity-7313967158194061312-kv6q](https://www.linkedin.com/posts/aleyda_optimizing-for-traditional-vs-ai-search-activity-7313967158194061312-kv6q)
+* Local research file: research/linkedin-posts/aleyda-solis_traditional-vs-ai-search_2025-04-04.md
+* Collection method: Manual review and original summary of a public LinkedIn post
+* Selection rationale: Aleyda Solís is an experienced international and SaaS SEO consultant who publishes practical frameworks for traditional SEO, AI search optimization, and scalable organic growth.
+* Relevance notes: This source explains how user behavior, optimization targets, goals, and measurement differ between traditional and AI-driven search. It adds a practical GEO and AI-search perspective to the content-production and quality-control workflows documented in the other sources.
