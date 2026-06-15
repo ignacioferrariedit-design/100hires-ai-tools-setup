@@ -78,3 +78,16 @@ Selected experts should have public, relevant, and verifiable experience in SEO,
 * Collection method: Manual review and original summary of a public LinkedIn post
 * Selection rationale: Aleyda Solís is an experienced international and SaaS SEO consultant who publishes practical frameworks for traditional SEO, AI search optimization, and scalable organic growth.
 * Relevance notes: This source explains how user behavior, optimization targets, goals, and measurement differ between traditional and AI-driven search. It adds a practical GEO and AI-search perspective to the content-production and quality-control workflows documented in the other sources.
+
+### 5. Mike King
+
+* Expert: Mike King
+* Organization: iPullRank
+* Content type: Public technical article / research notes
+* Title: How AI Mode Works and How SEO Can Prepare for the Future of Search
+* Publication date: 2025-05-27
+* Source URL: [https://ipullrank.com/how-ai-mode-works](https://ipullrank.com/how-ai-mode-works)
+* Local research file: research/other/mike-king_how-ai-mode-works_2025-05-27.md
+* Collection method: Manual review and original summary of the public iPullRank article
+* Selection rationale: Mike King is the founder and CEO of iPullRank and a leading technical practitioner in AI search, information retrieval, and relevance engineering. His work explains how generative search retrieves, evaluates, personalizes, and cites content.
+* Relevance notes: This source adds a technical systems perspective through query fan-out, passage-level retrieval, multimodal content, personalization, and AI-search measurement. It helps connect content-production workflows with the mechanisms that determine whether B2B SaaS content is surfaced and cited.
