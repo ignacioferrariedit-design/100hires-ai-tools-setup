@@ -24,3 +24,18 @@ Selected experts should have public, relevant, and verifiable experience in SEO,
 8. Lily Ray
 9. Gael Breton
 10. Patrick Stox
+
+## Documented Expert Sources
+
+### 1. Ryan Law
+
+* Expert: Ryan Law
+* Organization: Ahrefs
+* Content type: YouTube interview/transcript
+* Title: How to automate blog writing with AI from keyword to published | Ryan Law (Ahrefs)
+* Publication date: 2026-04-28
+* Source URL: [https://www.youtube.com/watch?v=iVZrVeESnFQ](https://www.youtube.com/watch?v=iVZrVeESnFQ)
+* Local research file: research/youtube-transcripts/ryan-law_how-to-automate-blog-writing-with-ai_2026-04-28.md
+* Collection method: Supadata Python SDK using the native YouTube transcript
+* Selection rationale: Ryan Law leads content at Ahrefs and presents a concrete, production-level workflow for automating SEO content research, outlining, drafting, internal linking, product integration, fact verification, and content updates with Claude Code.
+* Relevance notes: The source directly addresses scalable AI-assisted content production, human review, reusable skills, quality controls, and B2B SaaS product-led SEO.
