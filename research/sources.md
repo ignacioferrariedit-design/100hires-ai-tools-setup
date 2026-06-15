@@ -52,3 +52,16 @@ Selected experts should have public, relevant, and verifiable experience in SEO,
 * Collection method: Supadata Python SDK using the native YouTube transcript
 * Selection rationale: Kevin Indig is a prominent technical and growth SEO practitioner who explains how automation can support scalable research, insight extraction, content ideation, draft generation, and programmatic SEO workflows.
 * Relevance notes: The source is directly relevant to AI-powered SEO content production because it focuses on automation systems, scalable content operations, human oversight, and the use of AI to accelerate B2B SaaS SEO work.
+
+### 3. Bernard Huang
+
+* Expert: Bernard Huang
+* Organization: Clearscope
+* Content type: Public web article / research notes
+* Title: The New Frontier of SEO: Why AI Optimization Is About Intelligence, Not Automation
+* Publication date: 2025-11-25
+* Source URL: [https://www.clearscope.io/blog/seo-ai-optimization-is-about-intelligence](https://www.clearscope.io/blog/seo-ai-optimization-is-about-intelligence)
+* Local research file: research/other/bernard-huang_ai-optimization-intelligence-not-automation_2025-11-25.md
+* Collection method: Manual review and original summary of the public Clearscope article
+* Selection rationale: Bernard Huang is the founder of Clearscope and works directly on SEO content optimization and visibility across traditional and AI-driven search. His article explains why AI should improve research, semantic coverage, knowledge structure, and originality rather than simply automate content volume.
+* Relevance notes: This source adds a strategic quality-control perspective to the operational workflows described by Ryan Law and Kevin Indig. It is particularly relevant to B2B SaaS because it connects scalable AI-assisted production with product expertise, topical authority, human review, and visibility in AI-generated answers.
