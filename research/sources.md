@@ -117,3 +117,16 @@ Selected experts should have public, relevant, and verifiable experience in SEO,
 * Collection method: Manual review and original summary of the public Ahrefs data study
 * Selection rationale: Patrick Stox is an experienced technical SEO practitioner whose research connects AI-search visibility with measurable traffic, signups, and commercial performance.
 * Relevance notes: This source adds a business-outcomes perspective to the research. It shows why B2B SaaS teams should measure AI referral traffic, conversion rates, landing-page performance, citations, and downstream revenue rather than evaluating AI Search only through traffic volume.
+
+### 8. Ross Simmonds
+
+* Expert: Ross Simmonds
+* Organization: Foundation Marketing
+* Content type: Podcast interview, public transcript, and original research notes
+* Title: AI Killed Traditional Marketing - Here's What's Next
+* Publication date: 2025-09-24
+* Source URL: [https://roguestartups.com/episodes/rs352-ai-killed-traditional-marketing-heres-whats-next](https://roguestartups.com/episodes/rs352-ai-killed-traditional-marketing-heres-whats-next)
+* Local research file: research/other/ross-simmonds_ai-killed-traditional-marketing_2025-09-24.md
+* Collection method: Manual review of the official podcast page, show notes, chapters, and public transcript
+* Selection rationale: Ross Simmonds specializes in B2B SaaS content strategy, distribution, SEO, and AI-driven discovery. His work explains how original expert assets can be repurposed and distributed across multiple buyer-discovery channels.
+* Relevance notes: This source adds a distribution-centered perspective to the research. It shows how B2B SaaS teams can combine human expertise, proprietary evidence, customer stories, and AI-assisted repurposing to create articles, social posts, videos, newsletters, FAQs, comparison pages, and sales content while measuring leads, pipeline, conversions, and revenue.
