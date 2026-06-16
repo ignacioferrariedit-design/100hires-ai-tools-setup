@@ -144,3 +144,17 @@ Selected experts should have public, relevant, and verifiable experience in SEO,
 * Collection method: Manual review of the official podcast episode page and public transcript
 * Selection rationale: Andy Crestodina contributes practical expertise in content strategy, website conversion, audience research, SEO, and AI-assisted content analysis. His work focuses on using AI to identify missing buyer questions, objections, evidence, and information gaps rather than simply generating more content.
 * Relevance notes: This source adds a conversion-focused webpage auditing perspective. It shows how B2B SaaS teams can use AI to review product, use-case, integration, pricing, comparison, and landing pages while relying on human experts to validate recommendations, add evidence, clarify positioning, and approve final changes.
+
+### 10. Gael Breton
+
+* Expert: Gael Breton
+* Organization: Authority Hacker
+* Content type: YouTube interview transcript
+* Title: Cutting Through the AI Hype: These AI Strategies Actually Work
+* Publication date: 2025-08-18
+* Source URL: [https://www.youtube.com/watch?v=c2fgBO0cpcw](https://www.youtube.com/watch?v=c2fgBO0cpcw)
+* Local research file: research/youtube-transcripts/gael-breton_cutting-through-the-ai-hype-these-ai-strategies-actually-work_2025-08-18.md
+* Collection method: YouTube transcript collected through the Supadata API using the repository's Python script
+* Transcript length: 38,985 characters
+* Selection rationale: Gael Breton is the co-founder of Authority Hacker and is known for practical SEO experimentation, digital publishing systems, content operations, and testing AI workflows against real business outcomes.
+* Relevance notes: This source adds an experimentation-focused perspective. It helps distinguish useful AI workflows from hype and contributes practical ideas about content research, automation, editorial judgment, SEO operations, and responsible adoption of new AI tools.
