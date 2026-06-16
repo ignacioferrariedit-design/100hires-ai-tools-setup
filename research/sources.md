@@ -130,3 +130,17 @@ Selected experts should have public, relevant, and verifiable experience in SEO,
 * Collection method: Manual review of the official podcast page, show notes, chapters, and public transcript
 * Selection rationale: Ross Simmonds specializes in B2B SaaS content strategy, distribution, SEO, and AI-driven discovery. His work explains how original expert assets can be repurposed and distributed across multiple buyer-discovery channels.
 * Relevance notes: This source adds a distribution-centered perspective to the research. It shows how B2B SaaS teams can combine human expertise, proprietary evidence, customer stories, and AI-assisted repurposing to create articles, social posts, videos, newsletters, FAQs, comparison pages, and sales content while measuring leads, pipeline, conversions, and revenue.
+
+### 9. Andy Crestodina
+
+* Expert: Andy Crestodina
+* Organization: Orbit Media Studios
+* Content type: Podcast interview, public transcript, and original research notes
+* Title: Filling the Void: How AI Identifies and Closes Content Gaps
+* Publication date: 2024-06-08
+* Page update date: 2025-09-28
+* Source URL: [https://theaihat.com/filling-the-void-how-ai-identifies-and-closes-content-gaps-with-andy-crestodina/](https://theaihat.com/filling-the-void-how-ai-identifies-and-closes-content-gaps-with-andy-crestodina/)
+* Local research file: research/other/andy-crestodina_ai-content-gap-analysis_2024-06-08.md
+* Collection method: Manual review of the official podcast episode page and public transcript
+* Selection rationale: Andy Crestodina contributes practical expertise in content strategy, website conversion, audience research, SEO, and AI-assisted content analysis. His work focuses on using AI to identify missing buyer questions, objections, evidence, and information gaps rather than simply generating more content.
+* Relevance notes: This source adds a conversion-focused webpage auditing perspective. It shows how B2B SaaS teams can use AI to review product, use-case, integration, pricing, comparison, and landing pages while relying on human experts to validate recommendations, add evidence, clarify positioning, and approve final changes.
