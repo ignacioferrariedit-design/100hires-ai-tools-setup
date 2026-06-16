@@ -104,3 +104,16 @@ Selected experts should have public, relevant, and verifiable experience in SEO,
 * Collection method: Manual review and original summary of the public Amsive presentation page and transcript
 * Selection rationale: Lily Ray is Vice President of SEO and AI Search at Amsive and is recognized for research into search quality, brand authority, algorithm changes, and AI-driven discovery.
 * Relevance notes: This source connects established SEO foundations with AI-search visibility tactics, including passage-level clarity, structured answers, multimodal assets, brand mentions, citations, and expanded performance measurement. It is directly relevant to building trustworthy B2B SaaS content systems for both traditional and generative search.
+
+### 7. Patrick Stox
+
+* Expert: Patrick Stox
+* Organization: Ahrefs
+* Content type: Public data study / research notes
+* Title: Does AI Search Traffic Convert Better Than Traditional Search?
+* Publication date: 2025-06-16
+* Source URL: [https://ahrefs.com/blog/ai-search-traffic-conversions-ahrefs/](https://ahrefs.com/blog/ai-search-traffic-conversions-ahrefs/)
+* Local research file: research/other/patrick-stox_ai-search-traffic-conversions_2025-06-16.md
+* Collection method: Manual review and original summary of the public Ahrefs data study
+* Selection rationale: Patrick Stox is an experienced technical SEO practitioner whose research connects AI-search visibility with measurable traffic, signups, and commercial performance.
+* Relevance notes: This source adds a business-outcomes perspective to the research. It shows why B2B SaaS teams should measure AI referral traffic, conversion rates, landing-page performance, citations, and downstream revenue rather than evaluating AI Search only through traffic volume.
