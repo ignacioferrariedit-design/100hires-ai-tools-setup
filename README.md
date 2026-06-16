@@ -1,102 +1,113 @@
-# 100Hires Portfolio Project Setup
+# AI-Powered SEO Content Production for B2B SaaS
 
-## Overview
+## Project Objective
 
-This repository documents the first step of the 100Hires portfolio project process.
+This repository organizes research for a hiring-focused project on AI-powered SEO content production for B2B SaaS. The goal is to understand what skills, workflows, judgment, and quality controls are needed to build useful AI-assisted content systems without relying on generic content volume.
 
-The goal was to install and configure the required tools, create a public GitHub repository, open it in Cursor, and document the setup process clearly.
+The research focuses on practical evidence from SEO, content strategy, AI search, technical search systems, conversion-focused content, distribution, and commercial measurement.
 
-This project demonstrates my ability to follow instructions, learn new tools, solve setup issues independently, use AI tools responsibly, and document a repeatable process.
+## Research Scope
 
-## Tools Installed
+The project covers public source material related to:
 
-- Cursor IDE
-- Claude Code extension for Cursor / VS Code
-- Codex extension by OpenAI
-- Git for Windows
-- GitHub account
-- Public GitHub repository
+- AI-assisted SEO research, outlining, drafting, editing, and content updates.
+- AI search optimization, GEO, AEO, LLMO, and generative search visibility.
+- B2B SaaS content operations, product-led SEO, and distribution.
+- Passage-level clarity, structured answers, citations, and brand mentions.
+- Content gap analysis for product, use-case, comparison, pricing, and landing pages.
+- AI-search measurement, including citations, conversions, pipeline, and revenue.
 
-## Steps Completed
+The canonical source index is [research/sources.md](research/sources.md).
 
-1. Downloaded and installed Cursor IDE from the official Cursor website.
-2. Created a GitHub account because Cursor requested GitHub connection during the setup process.
-3. Connected GitHub to Cursor.
-4. Installed the Claude Code extension published by Anthropic.
-5. Installed the Codex extension published by OpenAI.
-6. Installed Git for Windows.
-7. Configured Git with my global user name and email.
-8. Created a public GitHub repository.
-9. Cloned the repository to my local computer using Git.
-10. Opened the repository files in Cursor.
-11. Created and edited this README.md file to document the setup process.
-12. Committed and pushed the README.md file to GitHub.
+## Selected Experts
 
-## Issues Encountered and How I Solved Them
+- Ryan Law: Selected for his concrete production workflow for SEO content research, outlining, drafting, internal linking, product integration, fact verification, and content updates.
+- Aleyda Solis: Selected for her practical frameworks comparing traditional SEO, AI search optimization, and scalable organic growth.
+- Mike King: Selected for his technical systems perspective on generative search, retrieval, personalization, passage-level relevance, and citations.
+- Kevin Indig: Selected for his technical and growth SEO perspective on automation for scalable research, insight extraction, ideation, draft generation, and programmatic workflows.
+- Andy Crestodina: Selected for his conversion-focused approach to using AI for webpage content gap analysis, buyer questions, objections, and evidence.
+- Ross Simmonds: Selected for his expertise in B2B SaaS content strategy, distribution, SEO, AI-driven discovery, and repurposing expert assets across channels.
+- Bernard Huang: Selected for his strategic view that AI should improve intelligence, semantic coverage, knowledge structure, originality, and brand recognition rather than automate content volume.
+- Lily Ray: Selected for her work connecting established SEO foundations with AI-search visibility tactics, brand authority, citations, and expanded measurement.
+- Gael Breton: Selected for his practical SEO experimentation, digital publishing systems, content operations, and testing AI workflows against business outcomes.
+- Patrick Stox: Selected for his measurement perspective on AI-search traffic, signups, conversions, citations, landing-page performance, and downstream revenue.
 
-### GitHub account required earlier than expected
+## Research Methodology
 
-The original instructions listed GitHub repository creation as a later step. However, during Cursor setup, I was prompted to connect GitHub before continuing.
+OpenAI Codex in Cursor was used to assist with repository operations, file organization, structured research collection, and documentation updates.
 
-Since I did not have a GitHub account yet, I created one at that point and connected it to Cursor. This allowed me to continue the setup process and complete the repository step later.
+YouTube transcripts were collected through Supadata using the repository's Python script, [scripts/fetch_youtube_transcript.py](scripts/fetch_youtube_transcript.py). The script stores transcript Markdown files in [research/youtube-transcripts/](research/youtube-transcripts/).
 
-### Git was not installed on my computer
+LinkedIn posts, public articles, public presentations, podcasts, show notes, and public transcripts were reviewed manually. Research notes and summaries in this repository are original and do not reproduce complete copyrighted sources.
 
-When I checked Git in the Windows Command Prompt, the system did not recognize the `git` command.
+## Source Types Collected
 
-To solve this, I downloaded and installed Git for Windows from the official Git website. After installation, I verified that Git was installed correctly and configured my global Git user name and email.
+- YouTube interview transcripts collected through Supadata.
+- Public LinkedIn post research notes.
+- Public web article research notes.
+- Public technical article research notes.
+- Public presentation, transcript, and research notes.
+- Public podcast interview, show notes, transcript, and research notes.
+- Public data study research notes.
 
-### Understanding git init vs git clone
+## Repository Structure
 
-While learning the basic Git workflow, I saw that some tutorials start a local repository using `git init`.
+- [research/sources.md](research/sources.md): The master index of the selected topic, expert selection criteria, selected experts, documented sources, source URLs, local research files, collection methods, rationales, and relevance notes.
+- [research/linkedin-posts/](research/linkedin-posts/): Original research notes based on public LinkedIn posts.
+- [research/youtube-transcripts/](research/youtube-transcripts/): Markdown transcript files collected from publicly available YouTube videos.
+- [research/other/](research/other/): Original notes for public articles, studies, presentations, podcast pages, show notes, and public transcripts that do not fit the LinkedIn or YouTube transcript folders.
+- [scripts/](scripts/): Python scripts and documentation for collecting public research material through APIs. See [scripts/README.md](scripts/README.md).
 
-In this case, I did not need to run `git init` because I created the repository on GitHub first and then used `git clone` to copy it to my computer. Cloning the repository automatically created the local `.git` folder and connected the local folder to the remote GitHub repository.
+## Transcript Collection Workflow
 
-This helped me understand the difference between starting a repository locally with `git init` and cloning an existing remote repository with `git clone`.
+The transcript workflow uses Python, `supadata`, and `python-dotenv`.
 
-### Extension verification
+Install dependencies from the repository root:
 
-When installing Claude Code and Codex, I checked the verified publishers before installing them.
+```powershell
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+```
 
-- Claude Code was published by Anthropic, with verified ownership of anthropic.com.
-- Codex was published by OpenAI, with verified ownership of openai.com.
+Create a local `.env` file in the repository root and add the Supadata API key:
 
-This helped ensure that I was installing the correct and official extensions.
+```text
+SUPADATA_API_KEY=your_api_key_here
+```
 
-### Repository setup
+Do not commit `.env` or expose the API key. The script reads `SUPADATA_API_KEY` through `python-dotenv`.
 
-After creating the public GitHub repository, I cloned it to my local computer using Git. The repository was empty at first, which was expected because I had not created any files yet.
+Example Windows command:
 
-I then created this README.md file to document the setup process and prepare it for commit and push to GitHub.
+```powershell
+.\.venv\Scripts\python.exe scripts\fetch_youtube_transcript.py --url "YOUTUBE_URL" --author "AUTHOR_NAME" --title "VIDEO_TITLE" --publication-date "YYYY-MM-DD" --output "author-name_video-title_YYYY-MM-DD.md"
+```
 
-### Opening the README.md file in Cursor
+The script requests native public YouTube transcripts through Supadata with `mode="native"`. It does not request AI-generated transcription and does not support asynchronous transcript jobs. Generated Markdown files should be manually reviewed before being used as research material.
 
-After cloning the repository locally, I noticed that the README.md file was visible in Windows File Explorer but I was not seeing it correctly from Cursor at first.
+## Cross-Source Findings
 
-To solve this, I verified the local file structure using Windows File Explorer and the Command Prompt. Then I opened the README.md file directly with Cursor, which allowed me to review and edit it inside the required AI-assisted development environment.
+- AI should augment human expertise rather than mass-produce generic content.
+- Original research, proprietary data, customer evidence, and expert viewpoints create defensibility.
+- Clear passage-level answers and structured information support both traditional and generative search.
+- Discovery now happens across Google, AI assistants, LinkedIn, YouTube, Reddit, podcasts, and communities.
+- Strong primary assets can be repurposed into multiple formats with AI.
+- Human review is required for accuracy, positioning, evidence, and editorial quality.
+- AI-search measurement should include citations, visibility, conversions, pipeline, and revenue, not traffic alone.
 
-This helped me better understand the difference between opening a single file and opening a full project folder in an IDE, and reinforced the importance of checking the local file structure before making changes.
+## Security and Responsible Use
 
-## Cursor Usage
+The repository is configured to exclude `.env`, API keys, virtual environments, Python cache folders, and compiled Python files from Git through [.gitignore](.gitignore).
 
-After cloning the repository locally, I opened and edited the README.md file in Cursor to continue the setup process inside the required AI-assisted development environment.
+No real API key, password, token, or private credential should be committed. AI-generated or AI-assisted output requires human verification before it is treated as reliable research, published content, or hiring guidance.
 
-## Support Resources Used
+## Limitations
 
-During the setup process, I used a YouTube tutorial to understand the basic Git and GitHub workflow, including repositories, commits, and push.
+This repository contains a curated set of public sources, not an exhaustive literature review. Some materials are summaries or notes based on public pages, presentations, podcasts, show notes, or transcripts. The research reflects the collected materials and should be revisited as AI search systems, SEO tools, attribution methods, and platform behavior change.
 
-I also used ChatGPT as a support tool to clarify concepts, troubleshoot setup questions, and organize the process step by step. I did not copy commands blindly; I verified each step by running the commands locally and checking the results.
+Transcript collection depends on public transcript availability and Supadata API behavior. Sources without public transcripts or sources requiring asynchronous processing may not be collectible with the first version of the script.
 
-This helped me move forward independently, understand the workflow, and document the process clearly.
+## Copyright and Attribution
 
-## What I Learned
+This repository is for research organization and analysis. It links to original public sources and includes original summaries, notes, metadata, and locally collected transcript files where permitted by the collection workflow.
 
-This setup helped me understand how AI-assisted development environments connect with version control tools like GitHub.
-
-I learned how to configure Git locally, clone a public repository, create a README.md file, and prepare a project to be committed and pushed to GitHub.
-
-I also learned the importance of verifying tool publishers, protecting sensitive information, documenting each step clearly, and solving setup issues independently instead of waiting for detailed instructions.
-
-## Notes
-
-No sensitive personal information, API keys, passwords, tokens, or private files were added to this repository.
+Research notes do not reproduce complete copyrighted articles, LinkedIn posts, slide decks, podcast transcripts, or datasets. Readers should consult the linked original sources for the authors' full arguments, examples, methodology, and supporting evidence.
