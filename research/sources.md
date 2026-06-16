@@ -91,3 +91,16 @@ Selected experts should have public, relevant, and verifiable experience in SEO,
 * Collection method: Manual review and original summary of the public iPullRank article
 * Selection rationale: Mike King is the founder and CEO of iPullRank and a leading technical practitioner in AI search, information retrieval, and relevance engineering. His work explains how generative search retrieves, evaluates, personalizes, and cites content.
 * Relevance notes: This source adds a technical systems perspective through query fan-out, passage-level retrieval, multimodal content, personalization, and AI-search measurement. It helps connect content-production workflows with the mechanisms that determine whether B2B SaaS content is surfaced and cited.
+
+### 6. Lily Ray
+
+* Expert: Lily Ray
+* Organization: Amsive
+* Content type: Public presentation, transcript, and research notes
+* Title: GEO, AEO, LLMO: Separating Fact from Fiction and How to Win in AI Search
+* Publication date: 2025-11-12
+* Source URL: [https://www.amsive.com/insights/seo/geo-aeo-llmo-separating-fact-from-fiction-how-to-win-in-ai-search/](https://www.amsive.com/insights/seo/geo-aeo-llmo-separating-fact-from-fiction-how-to-win-in-ai-search/)
+* Local research file: research/other/lily-ray_geo-aeo-llmo-fact-vs-fiction_2025-11-12.md
+* Collection method: Manual review and original summary of the public Amsive presentation page and transcript
+* Selection rationale: Lily Ray is Vice President of SEO and AI Search at Amsive and is recognized for research into search quality, brand authority, algorithm changes, and AI-driven discovery.
+* Relevance notes: This source connects established SEO foundations with AI-search visibility tactics, including passage-level clarity, structured answers, multimodal assets, brand mentions, citations, and expanded performance measurement. It is directly relevant to building trustworthy B2B SaaS content systems for both traditional and generative search.
